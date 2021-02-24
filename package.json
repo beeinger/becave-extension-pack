@@ -1,0 +1,31 @@
+{
+  "name": "becave-extension-pack",
+  "displayName": "Becave Extension Pack",
+  "description": "Extension pack for becave frontend development",
+  "author": "beeinger",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "amatiasq.sort-imports",
+    "beeinger.becave-snippets",
+    "christian-kohler.npm-intellisense",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "cssho.vscode-svgviewer",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "jpoissonnier.vscode-styled-components",
+    "monokai.theme-monokai-pro-vscode",
+    "naumovs.color-highlight",
+    "streetsidesoftware.code-spell-checker",
+    "svipas.prettier-plus",
+    "TabNine.tabnine-vscode",
+    "yzhang.markdown-all-in-one"
+  ]
+}
