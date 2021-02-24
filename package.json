@@ -3,7 +3,7 @@
   "displayName": "Becave Extension Pack",
   "description": "Extension pack for becave frontend development",
   "publisher": "beeinger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.53.0"
   },
