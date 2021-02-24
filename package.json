@@ -10,6 +10,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beeinger/becave-extension-pack"
+  },
   "extensionPack": [
     "aaron-bond.better-comments",
     "amatiasq.sort-imports",
