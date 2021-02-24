@@ -16,7 +16,8 @@
   "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
   "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
   "workbench.startupEditor": "welcomePage",
-  "tabnine.experimentalAutoImports": true
+  "tabnine.experimentalAutoImports": true,
+  "cSpell.enableFiletypes": ["!json"]
 }
 ```
 
