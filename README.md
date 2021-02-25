@@ -2,7 +2,9 @@
 
 ## Recommendations:
 
-### Font - [Fira Code](https://github.com/tonsky/FiraCode)
+### Editor Font - [Fira Code](https://github.com/tonsky/FiraCode)
+
+### Console Font - [Meslo Nerd Font (MesloLGS NF)](https://github.com/romkatv/powerlevel10k/blob/master/font.md)
 
 ### VSCode settings.json
 
@@ -10,16 +12,32 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "svipas.prettier-plus",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'zero'",
-  "editor.wordWrap": "on",
   "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
   "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
-  "workbench.startupEditor": "welcomePage",
+  "workbench.startupEditor": "readme",
   "tabnine.experimentalAutoImports": true,
-  "cSpell.enableFiletypes": ["!json"]
+  "cSpell.enableFiletypes": ["!json"],
+  "debug.console.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.codeLensFontFamily": "Fira Code",
+  "editor.inlineHints.fontFamily": "Fira Code",
+  "scm.inputFontFamily": "Fira Code",
+  "markdown.preview.fontFamily": "Fira Code",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'zero'",
+  "editor.wordWrap": "on"
 }
 ```
+
+---
+
+_And remember, a wise man once said:_
+
+> “The code is more what you'd call _guidelines_ than actual rules”
+
+---
+
+<br/>
 
 ## Includes:
 
