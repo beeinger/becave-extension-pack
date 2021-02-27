@@ -4,7 +4,7 @@
   "description": "Extension pack for becave frontend development",
   "icon": "icon.png",
   "publisher": "beeinger",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.53.0"
   },
@@ -22,12 +22,13 @@
     "christian-kohler.npm-intellisense",
     "CoenraadS.bracket-pair-colorizer-2",
     "cssho.vscode-svgviewer",
+    "dahong.theme-bear",
     "dsznajder.es7-react-js-snippets",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "jpoissonnier.vscode-styled-components",
-    "monokai.theme-monokai-pro-vscode",
     "naumovs.color-highlight",
+    "rastikerdar.vscode-seedling-icon-theme",
     "streetsidesoftware.code-spell-checker",
     "svipas.prettier-plus",
     "TabNine.tabnine-vscode",

@@ -12,8 +12,8 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "svipas.prettier-plus",
-  "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
-  "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+  "workbench.iconTheme": "vscode-seedling-icon-theme",
+  "workbench.colorTheme": "Bear Theme",
   "workbench.startupEditor": "readme",
   "tabnine.experimentalAutoImports": true,
   "cSpell.enableFiletypes": ["!json"],
@@ -50,10 +50,11 @@ _And remember, a wise man once said:_
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Prettier +](https://marketplace.visualstudio.com/items?itemName=svipas.prettier-plus)
 - [sort-imports](https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [Bear Theme](https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear)
+- [Seedling Icon Theme](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
