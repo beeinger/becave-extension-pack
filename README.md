@@ -1,12 +1,14 @@
 # Extension Pack for React JS
 
-## Recommendations:
+## Recommended settings:
 
 ### Editor Font - [Fira Code](https://github.com/tonsky/FiraCode)
 
 ### Console Font - [Meslo Nerd Font (MesloLGS NF)](https://github.com/romkatv/powerlevel10k/blob/master/font.md)
 
-### VSCode settings.json
+<br/>
+
+### VSCode settings.json:
 
 ```json
 {
@@ -29,6 +31,10 @@
 }
 ```
 
+_**Tip:** For better experience on **Retina** displays
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;change **"Fira Code"** to **"FiraCode-Retina"**_
+
 ---
 
 _And remember, a wise man once said:_
@@ -43,6 +49,7 @@ _And remember, a wise man once said:_
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Bear Theme](https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear)
 - [Becave Snippets](https://marketplace.visualstudio.com/items?itemName=beeinger.becave-snippets)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -52,9 +59,8 @@ _And remember, a wise man once said:_
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Prettier +](https://marketplace.visualstudio.com/items?itemName=svipas.prettier-plus)
+- [Seedling Icon Theme](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 - [sort-imports](https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-- [Bear Theme](https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear)
-- [Seedling Icon Theme](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)

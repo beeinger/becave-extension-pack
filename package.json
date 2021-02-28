@@ -1,13 +1,8 @@
 {
   "name": "becave-extension-pack",
   "displayName": "Becave Extension Pack",
+  "version": "1.1.1",
   "description": "Extension pack for becave frontend development",
-  "icon": "icon.png",
-  "publisher": "beeinger",
-  "version": "1.1.0",
-  "engines": {
-    "vscode": "^1.53.0"
-  },
   "categories": [
     "Extension Packs"
   ],
@@ -15,12 +10,14 @@
     "type": "git",
     "url": "https://github.com/becave/becave-extension-pack"
   },
+  "publisher": "beeinger",
   "extensionPack": [
+    "CoenraadS.bracket-pair-colorizer-2",
+    "TabNine.tabnine-vscode",
     "aaron-bond.better-comments",
     "amatiasq.sort-imports",
     "beeinger.becave-snippets",
     "christian-kohler.npm-intellisense",
-    "CoenraadS.bracket-pair-colorizer-2",
     "cssho.vscode-svgviewer",
     "dahong.theme-bear",
     "dsznajder.es7-react-js-snippets",
@@ -31,7 +28,10 @@
     "rastikerdar.vscode-seedling-icon-theme",
     "streetsidesoftware.code-spell-checker",
     "svipas.prettier-plus",
-    "TabNine.tabnine-vscode",
     "yzhang.markdown-all-in-one"
-  ]
+  ],
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "icon": "icon.png"
 }
