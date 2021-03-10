@@ -1,7 +1,7 @@
 {
   "name": "becave-extension-pack",
   "displayName": "Becave Extension Pack",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Extension pack for becave frontend development",
   "categories": [
     "Extension Packs"
