@@ -1,7 +1,7 @@
 {
   "name": "becave-extension-pack",
   "displayName": "Becave Extension Pack",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Extension pack for becave frontend development",
   "categories": [
     "Extension Packs"
@@ -12,14 +12,15 @@
   },
   "publisher": "beeinger",
   "extensionPack": [
+    "jock.svg",
     "CoenraadS.bracket-pair-colorizer-2",
     "TabNine.tabnine-vscode",
     "aaron-bond.better-comments",
     "amatiasq.sort-imports",
     "beeinger.becave-snippets",
+    "beeinger.becave-theme",
     "christian-kohler.npm-intellisense",
     "cssho.vscode-svgviewer",
-    "dahong.theme-bear",
     "dsznajder.es7-react-js-snippets",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",

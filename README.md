@@ -12,22 +12,31 @@
 
 ```json
 {
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "svipas.prettier-plus",
-  "workbench.iconTheme": "vscode-seedling-icon-theme",
-  "workbench.colorTheme": "Bear Theme",
-  "workbench.startupEditor": "readme",
-  "tabnine.experimentalAutoImports": true,
+  {
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
   "cSpell.enableFiletypes": ["!json"],
   "debug.console.fontFamily": "MesloLGS NF",
-  "terminal.integrated.fontFamily": "MesloLGS NF",
-  "editor.codeLensFontFamily": "Fira Code",
-  "editor.inlineHints.fontFamily": "Fira Code",
-  "scm.inputFontFamily": "Fira Code",
-  "markdown.preview.fontFamily": "Fira Code",
-  "editor.fontFamily": "Fira Code",
+  "editor.codeLensFontFamily": "FiraCode-Retina",
+  "editor.defaultFormatter": "svipas.prettier-plus",
+  "editor.fontFamily": "FiraCode-Retina",
   "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'zero'",
-  "editor.wordWrap": "on"
+  "editor.formatOnSave": true,
+  "editor.inlineHints.fontFamily": "FiraCode-Retina",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "markdown.preview.fontFamily": "FiraCode-Retina",
+  "scm.inputFontFamily": "FiraCode-Retina",
+  "svg.preview.background": "dark-transparent",
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "workbench.iconTheme": "vscode-seedling-icon-theme",
+  "workbench.startupEditor": "readme",
+  "cSpell.language": "en-GB",
+  "workbench.colorTheme": "Becave Theme"
+}
+
 }
 ```
 
@@ -49,7 +58,7 @@ _And remember, a wise man once said:_
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- [Bear Theme](https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear)
+- [Becave Theme](https://marketplace.visualstudio.com/items?itemName=beeinger.becave-theme)
 - [Becave Snippets](https://marketplace.visualstudio.com/items?itemName=beeinger.becave-snippets)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -61,6 +70,7 @@ _And remember, a wise man once said:_
 - [Prettier +](https://marketplace.visualstudio.com/items?itemName=svipas.prettier-plus)
 - [Seedling Icon Theme](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 - [sort-imports](https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports)
+- [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
