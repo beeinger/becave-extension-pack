@@ -10,15 +10,16 @@
 
 ### VSCode settings.json:
 
+_**Tip:** If the font doesn't work change **"FiraCode-Retina"** to **"Fira Code"** everywhere below_
+
 ```json
 {
-  {
   "[svg]": {
     "editor.defaultFormatter": "jock.svg"
   },
   "cSpell.enableFiletypes": ["!json"],
   "debug.console.fontFamily": "MesloLGS NF",
-  "editor.codeLensFontFamily": "Fira Code",
+  "editor.codeLensFontFamily": "FiraCode-Retina",
   "editor.defaultFormatter": "svipas.prettier-plus",
   "editor.fontFamily": "FiraCode-Retina",
   "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'zero'",
@@ -37,10 +38,6 @@
   "workbench.colorTheme": "Becave Theme"
 }
 ```
-
-_**Tip:** For better experience on non**Retina** displays
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;change **"FiraCode-Retina"** to **"Fira Code"**_
 
 ---
 
